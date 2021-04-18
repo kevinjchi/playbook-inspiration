@@ -1,1 +1,3 @@
 # playbook-inspiration
+
+- MediatR + CQRS
