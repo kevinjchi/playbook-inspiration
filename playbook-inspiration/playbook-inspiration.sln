@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playbook-inspiration", "playbook-inspiration\playbook-inspiration.csproj", "{861440D7-4F07-4A08-AB3F-94EE32F4D854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{FE29750D-08AB-4B37-9BA1-9084C9E5FED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861440D7-4F07-4A08-AB3F-94EE32F4D854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861440D7-4F07-4A08-AB3F-94EE32F4D854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861440D7-4F07-4A08-AB3F-94EE32F4D854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861440D7-4F07-4A08-AB3F-94EE32F4D854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE29750D-08AB-4B37-9BA1-9084C9E5FED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE29750D-08AB-4B37-9BA1-9084C9E5FED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE29750D-08AB-4B37-9BA1-9084C9E5FED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE29750D-08AB-4B37-9BA1-9084C9E5FED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19ED86FC-9699-404F-907C-4BE8A94CD325}
+	EndGlobalSection
+EndGlobal
